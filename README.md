@@ -1,6 +1,8 @@
 # GlobalAIHubMLCourse_last
  
-Course Date: Name: Fitnatnur 
+Course Date: 4/1/2021
+
+Name: Fitnatnur 
 
 Surname: Baykal
 
