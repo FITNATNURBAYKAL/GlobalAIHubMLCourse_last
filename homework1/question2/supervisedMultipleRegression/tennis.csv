@@ -1,0 +1,15 @@
+outlook;temperature;humidity;windy;play
+sunny;80;80;FALSE;no
+sunny;80;90;TRUE;no
+overcast;70;70;FALSE;yes
+rainy;70;50;FALSE;yes
+rainy;60;80;FALSE;yes
+rainy;50;70;TRUE;no
+overcast;60;60;TRUE;yes
+sunny;70;90;FALSE;no
+sunny;40;70;FALSE;yes
+rainy;30;80;FALSE;yes
+sunny;70;70;TRUE;yes
+overcast;50;90;TRUE;yes
+overcast;80;70;FALSE;yes
+rainy;70;70;TRUE;no
